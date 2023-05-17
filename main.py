@@ -2,7 +2,7 @@ import os
 
 
 def sum_function(a: float, b: float) -> float:
-    pass
+    return a+b
 
 
 def subtract_function(a: float, b: float) -> float:
